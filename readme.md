@@ -19,7 +19,7 @@ The point of using OAuth tokens is, you don't have to use credentials in web scr
 Use this as an example how you could extract the Sea of Thieves RAT for yourself.
 If you still want to use this code, at least build it yourself.
 
-Binary builds are for the authors own use and shouldn't be trusted.
+Binary builds are for the authors own use and shouldn't be trusted (https://hub.docker.com/r/echox/sot-rat-extractor)
 
 The RAT gives full access to your account on seaofthieves.com until it expires.
 
